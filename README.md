@@ -1,4 +1,4 @@
-# ![Image of TeamCity](https://www.qbssoftware.com/image/cache/catalog/qbs/octopus-600x315w.png)
+# ![Image of TeamCity](https://www.nclouds.com/blog/wp-content/uploads/2017/04/teamcity-post-banner.jpg)
 
 
 # TeamCitytut
