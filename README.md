@@ -27,19 +27,15 @@ The purpose of this repo is to aid new beginners in learning more about the vari
 
 - The DevOps HandBook
 by Gene Kim, Jez Humble, John Willis, and Patrick, Debois 
-
 - DevOps: A Software Architect’s Perspective
 by Len Bass, Ingo Weber, Liming Zhu
-
 - Site Reliability Engineering
 by Niall Murphy, Betsy Beyer, Chris Jones, Jennifer Petoff 
 
 ## Youtube Channels
 
 - https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ
-
 - https://www.youtube.com/watch?v=MnyvgFDh-kw
-
 - https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A/featured
 
 ## Support
