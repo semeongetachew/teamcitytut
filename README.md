@@ -3,7 +3,7 @@
 
 # TeamCitytut
 
-The purpose of this repo is to aid new beginners in learning more about the various solutions that OctopusDeploy provides.
+The purpose of this repo is to aid new beginners in learning more about the various solutions that Teamcity provides.
 
 ## Table of Contents
 
